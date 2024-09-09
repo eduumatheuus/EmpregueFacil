@@ -1,5 +1,0 @@
-Application ID
-c69808a7
-
-Application Keys
-804c5796af3dc2b43768d242dbc4af43	
