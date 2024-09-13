@@ -5,4 +5,6 @@
 - Protótipo de Sistema criado em conjunto da realização da Atividade de Extensão da Disciplina de "Tópicos de Big Data em Python" na faculdade Estácio pelo Aluno: Eduardo Matheus dos Santos.
 
 
-
+Caso a Interface Web esteja offline, rodar o app.py via terminal com o python e streamlit
+Exemplo: 
+C:\Users\Admin\AppData\Local\Programs\Python\Python312\python.exe -m streamlit run app.py
